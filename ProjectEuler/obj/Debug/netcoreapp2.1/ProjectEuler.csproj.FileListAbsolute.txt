@@ -9,3 +9,14 @@ C:\Users\kaniarasan.nagalinga\source\repos\ProjectEuler\ProjectEuler\obj\Debug\n
 C:\Users\kaniarasan.nagalinga\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfo.cs
 C:\Users\kaniarasan.nagalinga\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.dll
 C:\Users\kaniarasan.nagalinga\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.pdb
+D:\projeuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.deps.json
+D:\projeuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.runtimeconfig.json
+D:\projeuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.runtimeconfig.dev.json
+D:\projeuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.dll
+D:\projeuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.pdb
+D:\projeuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csprojAssemblyReference.cache
+D:\projeuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csproj.CoreCompileInputs.cache
+D:\projeuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfoInputs.cache
+D:\projeuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfo.cs
+D:\projeuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.dll
+D:\projeuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.pdb
